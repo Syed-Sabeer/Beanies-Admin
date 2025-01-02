@@ -4,6 +4,8 @@
 
 
 
+
+
 <section class="ecommerce-about" style="
 background-image: url('../assetsMain/images/about.jpg');
 background-size: cover;
